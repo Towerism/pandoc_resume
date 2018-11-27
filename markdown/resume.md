@@ -1,100 +1,63 @@
-Johnny Coder
+Martin Fracker, Jr
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Martin is a self-motivated IT professional with a strong passion for
+>  picking up new skills.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2013-2017
+:   **BS, Computer Science** Texas A&M University (College Station, TX)
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2016-present
+:   **Consultant** Improving Enterprises (College Station, TX)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+As a software consultant, developed and maintained web applications
+and systems infrastructure for various clients. Responsibilities included:
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+* Gathering business requirements from the client and turning them into technical specifications.
+* Administrating cloud infrastructure including Jenkins build server, Azure, and AWS.
+* Implementing technical specifications using various modern web technologies (MongoDB, Microsoft SQL, Vue, Angular, HTML, SASS, .NET, Node.js etc.)
+* Attending and coordinating Agile Scrum events within the team.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Arch Linux
+:   In the 4+ years of maintaining multiple arch linux systems, used them
+    for both university studies as well as work. My first foray into linux having
+    been Ubuntu, switched to Arch Linux not only for the extra challenge, but also
+    to gain a deeper understanding of the GNU/Linux ecosystem of software in general.
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   I enjoy embarking on small personal projects to learn new languages and
+    frameworks. I also contribute through submitting and participating in github
+    issues as well as code contributions.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Consulting
+:   Having demonstrated strong communication skills through frequent interactions with
+    clients, also worked on various web based systems including a job candidate tracking
+    system for internal use, a loan original and analysis system for agribusiness, a well
+    execution planning system for oil and gas industry, and a social media platform for
+    medium-to-large companies.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Volunteering
+------------
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Amnesty
+:   At the Amnesty International Texas A&M chapter, provided technical advice to chapter
+    leadership on web technology options for building a website to host chapter news. Also
+    participated in chapter fundraising.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <martin.frackerjr@gmail.com> • 979-676-5680\
+> www.martinfrackerjr.com • www.github.com/towerism
