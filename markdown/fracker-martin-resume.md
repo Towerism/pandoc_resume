@@ -35,10 +35,12 @@ Arch Linux
     to gain a deeper understanding of the GNU/Linux ecosystem of software in general.
 
 Open Source
-:   Started several small hobby projects to practice and learn new programming languages and
-    frameworks (C++, Rust, Ruby, Go, various node.js frameworks, etc). Additionally
-    contributed to existing projects through submitting and participating in github issues
-    as well as through code contributions.
+:   Started several small hobby projects to practice and learn new programming
+    languages and frameworks (C++, Rust, Ruby, go, .Net, Angular, Vue.js, various
+    node.js frameworks, etc).  Additionally contributed to existing projects
+    through submitting and participating in github issues as well as through code
+    contributions. Between professional engagements and open source, achieved 3
+    years experience in .NET and 1 year in Angular.
 
 Consulting
 :   Demonstrated strong communication skills through frequent interactions with
@@ -46,14 +48,6 @@ Consulting
     system for internal use, a loan origination and analysis system for agribusiness,
     a well execution planning system for the oil and gas industry, and a social media
     platform for medium-to-large companies.
-
-Volunteering
-------------
-
-Amnesty
-:   At the Amnesty International Texas A&M chapter, provided technical advice to chapter
-    leadership on web technology options for building a website to host chapter news.
-    Participated in chapter fundraising as well.
 
 Education
 ---------
